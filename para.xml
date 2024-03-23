@@ -1,0 +1,9 @@
+<suite name="Test-1">
+    <test name="Testing-Parameters">
+        <parameter name="Username" value ="Karthi"/>
+        <parameter name="password" value ="karth1234"/>
+        <classes>
+            <class name="testngPractice.ParameterizePractice"/>
+        </classes>
+    </test>
+</suite>

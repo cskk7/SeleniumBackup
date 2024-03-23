@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="testng-7.9.0">
+    <CLASSES>
+      <root url="jar://F:/1.Dependencies/testng-7.9.0.jar!/" />
+      <root url="jar://F:/1.Dependencies/poi-5.2.5.jar!/" />
+      <root url="jar://F:/1.Dependencies/apache-comms-io/commons-io-2.15.1.jar!/" />
+      <root url="jar://F:/1.Dependencies/jar_files/poi-ooxml-3.6.jar!/" />
+      <root url="jar://F:/1.Dependencies/jar_files/commons-logging-1.1.jar!/" />
+      <root url="jar://F:/1.Dependencies/jar_files/log4j-1.2.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
